@@ -48,9 +48,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omni-Developer&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
+  <br /> <br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omni-Developer&theme=tokyonight" alt="GitHub Streak" />
-  <br />
+  <br /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omni-Developer&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
