@@ -49,7 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omni-Developer&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img  width="40" style="margin: 5px; border-Radius: 8px;" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3f/83/b5/3f83b5df-d364-fc95-d7b7-790b6517009b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" alt="GitHub Streak" />
+   <h1 Color="black">Github Streak</h1>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omni-Developer&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
