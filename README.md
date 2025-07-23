@@ -13,7 +13,7 @@
 - 🌱 I’m always learning about new technologies & frameworks  
 - 💡 Passionate about **AI, open source, and scalable web apps**  
 - 💬 Ask me about anything dev-related  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **Ak0141904@gmail.com**  
 - ⚡ Fun fact: I love exploring how tech shapes the world!
 
 ---
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://th.bing.com/th/id/R.1e1fed11b21be3e31a809b15eb1fd167?rik=JXR4X6n8TnAnHQ&pid=ImgRaw&r=0)" width="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
