@@ -49,7 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omni-Developer&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-   <h1 Color="black">Github Streak</h1>
+   <h3>Github Streak</h3>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omni-Developer&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
